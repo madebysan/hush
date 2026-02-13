@@ -52,12 +52,15 @@ For defense in depth, use MicBlock alongside macOS's built-in per-app microphone
 
 1. Download and install [BlackHole 2ch](https://existential.audio/blackhole/)
 2. Restart your Mac after installing BlackHole
-3. Download MicBlock.app and move it to your Applications folder
-4. Launch MicBlock — it will appear in your menu bar
+3. Download **MicBlock.dmg** from the [latest release](https://github.com/madebysan/micblock/releases/latest)
+4. Open the DMG and drag MicBlock to your Applications folder
+5. Launch MicBlock — it will appear in your menu bar
+
+The app is signed and notarized by Apple.
 
 ## Usage
 
-- **Click the menu bar icon** to toggle mic muting on/off
+- **Click the menu bar icon** to toggle mic blocking on/off
 - **Right-click** (or click and hold) to access the menu:
   - See current microphone status
   - See which input device is active
