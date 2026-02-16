@@ -1,6 +1,13 @@
-# Hush
+<p align="center">
+  <img src="assets/app-icon.png" width="128" height="128" alt="Hush app icon">
+</p>
 
-A macOS menu bar app that disconnects your real microphone system-wide by swapping it with a silent virtual device.
+<h1 align="center">Hush</h1>
+
+<p align="center">A macOS menu bar app that disconnects your real microphone system-wide<br>
+by swapping it with a silent virtual device.</p>
+
+<p align="center">macOS 13+ · Apple Silicon & Intel</p>
 
 ## What it does
 
