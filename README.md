@@ -95,6 +95,10 @@ Hush runs entirely on your Mac. No data collection, no network connections, no t
 - Switches between audio input devices
 - Stores your preferences locally (mute state, launch-at-login, saved microphone)
 
+## Feedback
+
+Found a bug or have a feature idea? [Open an issue](https://github.com/madebysan/hush/issues).
+
 ## License
 
 MIT License — feel free to use, modify, and distribute.
